@@ -8,4 +8,4 @@
 - **Compliance and resilience** - continuous vulnerability scanning, pen testing, training, awareness tools, and compliance checks built to support all business sizes
 
 <br>
-<h3 align="left"><a href="https://www.defense.com/free-trial">Try Defense.com™ for free for 28 days</a></h3>
+<h3 align="left"><a href="https://www.defense.com/free-trial">Try Defense.com™ free for 28 days</a></h3>
